@@ -12,3 +12,9 @@
 <p align="center">
     <img src="imgs/result1.png" width="640"\>
 </p>
+
+### How To Use
+Open cmd or powershell then,
+```bash
+python camera.py
+```
