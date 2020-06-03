@@ -20,5 +20,5 @@ python camera.py
 ```
 ---
 ### Contact Info ###
-Author: khRay13
-email: ray1993.kh@gmail.com
+- Author: khRay13
+- email: ray1993.kh@gmail.com
